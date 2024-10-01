@@ -1,0 +1,30 @@
+body {
+    background-color: rgb(94, 122, 133);
+    font-family: Helvetica;
+    color: white;
+  }
+  
+h1 {
+    color: white;
+    text-align: center;
+    font-family: Helvetica;
+  }
+  
+p {
+    font-family: Helvetica;
+    font-size: 20px;
+  }
+
+table, th, td {
+    border: 1px solid white; 
+    border-collapse: collapse;
+    color: white;
+    text-align: center;
+    font-family: Helvetica;
+    padding: 10px;
+  }
+
+  img{ 
+    width: 40%;
+    height: auto;
+  }
